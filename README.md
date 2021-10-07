@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
-
 ![Rathinn's GitHub stats](https://github-readme-stats.vercel.app/api?username=rathinnn&show_icons=true&theme=react)
 
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
