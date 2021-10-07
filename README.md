@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=231tr0n)
 
 ![Rathinn's GitHub stats](https://github-readme-stats.vercel.app/api?username=rathinnn&show_icons=true&theme=react)
 
